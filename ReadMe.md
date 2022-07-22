@@ -42,4 +42,4 @@ Type 'quit' to quit: quit
 
 # Screenshot of Working Solution
 
-![Example](.Capture.PNG)
+![Example](./Capture.PNG)
